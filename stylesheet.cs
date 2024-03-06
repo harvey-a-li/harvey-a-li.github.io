@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Calibri, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -20,12 +20,12 @@ nav ul li {
   margin-right: 20px;
 }
 
-nav a {
+a {
   color: #fff;
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #ff0; /* Change color on hover */
 }
 
